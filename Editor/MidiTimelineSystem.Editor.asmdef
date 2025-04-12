@@ -1,0 +1,20 @@
+{
+    "name": "MidiTimelineSystem.Editor",
+    "rootNamespace": "MidiTimelineSystem.Editor",
+    "references": [
+        "MidiTimelineSystem.Runtime",
+        "Unity.Timeline",
+        "Unity.Timeline.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

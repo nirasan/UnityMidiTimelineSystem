@@ -1,0 +1,26 @@
+{
+  "name": "com.yourname.miditimeline",
+  "version": "1.0.0",
+  "displayName": "MIDI Timeline System",
+  "description": "MIDI file integration with Unity Timeline",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.timeline": "1.6.0"
+  },
+  "keywords": [
+    "midi",
+    "timeline",
+    "animation"
+  ],
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/yourusername"
+  },
+  "samples": [
+    {
+      "displayName": "Basic MIDI Events",
+      "description": "Shows how to handle MIDI events in Timeline",
+      "path": "Samples~/BasicMidiEvents"
+    }
+  ]
+}
